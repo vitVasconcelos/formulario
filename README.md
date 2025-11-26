@@ -3,6 +3,14 @@
 Este é um projeto simples e funcional de uma página de inscrição para newsletter, com alternância entre tema claro e escuro, utilizando HTML, CSS e JavaScript.
 O objetivo é demonstrar boas práticas de layout, variáveis CSS, responsividade e manipulação de DOM.
 
+🧠 Aprendizados no Projeto
+
+Este projeto foi desenvolvido como atividade de um curso que estou fazendo. Embora seja um site simples, ele me proporcionou novos aprendizados, principalmente sobre a alternância de tema utilizando variáveis CSS no :root.
+
+Já havia trabalhado com mudança de tema em projetos anteriores, porém a abordagem que eu usava era alternar arquivos CSS completos. Descobrir que é possível fazer isso de forma muito mais simples — apenas manipulando variáveis — tornou o desenvolvimento mais organizado e eficiente.
+
+Visite o site: https://vitvasconcelos.github.io/formulario/
+
 Prévia:
 
 <img width="327" height="589" alt="image" src="https://github.com/user-attachments/assets/3f11537a-ccc0-492e-8737-874deac04781" />
